@@ -39,3 +39,6 @@ Create an Ecommerce Amazon like Website
 9. Handle Changing Cart Items
    1. add select box for quantity
    2. handle select box change
+10. Save Cart Items
+11. install js-cookie package
+12. save and retrieve cart items in cookies
