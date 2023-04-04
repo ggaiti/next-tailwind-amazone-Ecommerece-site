@@ -42,3 +42,7 @@ Create an Ecommerce Amazon like Website
 10. Save Cart Items
 11. install js-cookie package
 12. save and retrieve cart items in cookies
+13. Create Login Form
+14. install react hook form
+15. create input boxes
+16. add login button
