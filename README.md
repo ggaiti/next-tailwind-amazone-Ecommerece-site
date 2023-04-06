@@ -57,3 +57,7 @@ Create an Ecommerce Amazon like Website
     2. create nextauth.js
     3. implement sign-in
     4. use sign-in in login form
+14. Add User Menu
+    1. check user authentication
+    2. install headlessui
+    3. show user menu
