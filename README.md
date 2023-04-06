@@ -46,3 +46,9 @@ Create an Ecommerce Amazon like Website
 14. install react hook form
 15. create input boxes
 16. add login button
+17. Connect to MongoDB
+18. isntall mongoose
+19. install mongodb or use mongodb atlas
+20. save connection url in .env file
+21. create db utils file
+22. create sample users
