@@ -40,15 +40,20 @@ Create an Ecommerce Amazon like Website
    1. add select box for quantity
    2. handle select box change
 10. Save Cart Items
-11. install js-cookie package
-12. save and retrieve cart items in cookies
-13. Create Login Form
-14. install react hook form
-15. create input boxes
-16. add login button
-17. Connect to MongoDB
-18. isntall mongoose
-19. install mongodb or use mongodb atlas
-20. save connection url in .env file
-21. create db utils file
-22. create sample users
+    1. install js-cookie package
+    2. save and retrieve cart items in cookies
+11. Create Login Form
+    1. install react hook form
+    2. create input boxes
+    3. add login button
+12. Connect to MongoDB
+    1. install mongoose
+    2. install mongodb or use mongodb atlas
+    3. save connection url in .env file
+    4. create db utils file
+    5. create sample users
+13. Create Login API
+    1. install next-auth
+    2. create nextauth.js
+    3. implement sign-in
+    4. use sign-in in login form
