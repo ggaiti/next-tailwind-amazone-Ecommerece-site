@@ -57,7 +57,7 @@ export default function ShippingScreen() {
           <input
             className="w-full"
             id="fullName"
-            autofocus
+            autoFocus
             {...register("fullName", { required: "Please enter full name" })}
           />
           {errors.fullName && (

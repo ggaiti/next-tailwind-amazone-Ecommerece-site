@@ -22,7 +22,6 @@ export default function Layout({ title, children }) {
     Cookies.remove("cart");
     dispatch({ type: "CART_RESET" });
     signOut({ callbackUrl: "/login" });
-    console.log(logoutClickHandler);
   };
 
   return (
