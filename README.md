@@ -88,3 +88,8 @@ Create an Ecommerce Amazon like Website
     1. add sign up api
     2. create register page
     3. call api on form submit
+22. Pay Order by Paypal
+    1. add paypal button
+    2. handle payment
+    3. create backend api
+    4. update order state
